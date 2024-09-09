@@ -146,6 +146,10 @@ vi /var/www/projectlamp/index.php
 
 __c.__ Accessing the php page on browser.
 
+
+```
+http://13.201.34.243:80
+```
 ![image](https://github.com/user-attachments/assets/a139385b-8f16-4adb-b51a-ef9964d8e663)
 
 
