@@ -144,7 +144,7 @@ vi /var/www/projectlamp/index.php
 ![image](https://github.com/user-attachments/assets/a9db328c-4510-47ac-8af8-00482bbfd58a)
 
 
-__c.__ Accessing the php page.
+__c.__ Accessing the php page on browser.
 
 ![image](https://github.com/user-attachments/assets/a139385b-8f16-4adb-b51a-ef9964d8e663)
 
