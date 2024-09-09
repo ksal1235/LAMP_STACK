@@ -121,6 +121,8 @@ __a.__  Editing /etc/apache2/mods-enabled/dir.conf to change the behaviour.
 ```
 sudo vi /etc/apache2/mods-enabled/dir.conf
 ```
+![image](https://github.com/user-attachments/assets/d3cef170-09be-4f3b-a7b4-f9017108126a)
+
 
 ![image](https://github.com/user-attachments/assets/0765480c-5806-479d-b8ea-c4dedd71f6a3)
 
