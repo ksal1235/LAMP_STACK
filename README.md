@@ -15,7 +15,7 @@ sudo apt update
 
 __b.__	Installing apache web-server:
 ```
-sudo apt install apache2 -y
+sudo apt install apache2 
 ```
 ![image](https://github.com/user-attachments/assets/2e0dbc66-9bd0-48e5-b5f2-3afd1db0bcdc)
 
